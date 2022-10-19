@@ -1,0 +1,33 @@
+body{
+	background-color: #A8E890;
+}
+
+.btn{
+	background-color: black;
+	color: white;
+	padding: 10px 15px;
+	border: none;
+	cursor: pointer;
+}
+
+.btn:hover{
+	background-color: red;
+	color: white;
+}
+
+.my-form{
+	padding: 20px;
+}
+
+.my-form .form-group{
+	padding-bottom: 15px;
+}
+
+.my-form label{
+	display: block;
+}
+
+.my-form input{
+	padding: 9px;
+	widows: 100%;
+}
